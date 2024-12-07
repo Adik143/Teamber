@@ -1,0 +1,47 @@
+<!DOCTYPE html>
+<html lang="kk">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>TeamBer - Студенттерге арналған көмек</title>
+    <link rel="stylesheet" href="TeamBer2.0.css">
+</head>
+<body>
+    <header>
+        <div class="container">
+            <h1>TeamBer - Студенттерге арналған көмек</h1>
+            <p>Менің атым Әділет Сәкенұлы, AlmaU университетінің бірінші курс студенті. Бұл сайтта студенттер бір-біріне көмек көрсету үшін түрлі қызметтер ұсынады.</p>
+        </div>
+    </header>
+
+    <section id="services">
+        <div class="service">
+            <h2>Гитарада ойнап үйрену</h2>
+            <p>Гитарада ойнауды үйрену үшін көмек алғыңыз келе ме? Тәжірибелі мамандар мен студенттерден кеңес ала аласыз.</p>
+            <a href="https://t.me/romaisaevvv" class="btn">Толығырақ</a>
+        </div>
+
+        <div class="service">
+            <h2>Өлең шумақтарын жасау</h2>
+            <p>Өлең жазуға көмектесетін идеялар мен шабыт алғыңыз келе ме? Біз сізге әрқашан көмек көрсетуге дайынбыз.</p>
+            <a href="https://t.me/Adikkoi06" class="btn">Толығырақ</a>
+        </div>
+
+        <div class="service">
+            <h2>Python-нан көмек көрсету</h2>
+            <p>Python бағдарламалау тілінде қиындықтар туындап жатса, біз сізге көмек көрсетеміз!</p>
+            <a href="https://t.me/romaisaevvv" class="btn">Толығырақ</a>
+        </div>
+    </section>
+
+    <section id="contact">
+        <h2>Байланыс</h2>
+        <p>Instagram арқылы бізбен байланысыңыз:</p>
+        <a href="https://www.instagram.com/abubakyrov_17/" class="btn">Instagram-ға өту</a>
+    </section>
+
+    <footer>
+        <p>&copy; 2024 TeamBer. Барлық құқықтар қорғалған.</p>
+    </footer>
+</body>
+</html>
